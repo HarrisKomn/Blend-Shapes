@@ -23,6 +23,9 @@ b) Compute remaining (non control) points using barycentric interpolation. Perso
 c) Create the remaining personal belndshapes so as to be registered with the given blendshapes.
 (same motion of control and non control points between personal and given blendshapes
 
+![Καταγραφή6](https://user-images.githubusercontent.com/43147324/65901181-57eebb00-e3c0-11e9-9bc0-88523bd98984.PNG)
+![Καταγραφή7](https://user-images.githubusercontent.com/43147324/65901187-5a511500-e3c0-11e9-8e5d-ce916d61680b.PNG)
+
 d) Construct different facial expression like Task 1
 
 ### Task 3
