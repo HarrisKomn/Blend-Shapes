@@ -8,6 +8,10 @@ Construct of new face expressions, using the given blendshape base and (a) Linea
 ### Task 2
 Create a personal 3D model (using ISENSE device):
 a) Choose control points on personal blendshape and register them to control points of the given blendshape.
+
+![Καταγραφή](https://user-images.githubusercontent.com/43147324/65899915-6e474780-e3bd-11e9-8179-ff2d8874987a.PNG)
+
+
 b) Compute remaining (non control) points using barycentric interpolation. Personal blendshape totally registered to the given blendshape
 c) Create the remaining personal belndshapes so as to be registered with the given blendshapes.
 (same motion of control and non control points between personal and given blendshapes
