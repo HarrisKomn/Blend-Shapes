@@ -17,6 +17,9 @@ a) Choose control points on personal blendshape and register them to control poi
 
 b) Compute remaining (non control) points using barycentric interpolation. Personal blendshape totally registered to the given blendshape
 
+![Καταγραφή5](https://user-images.githubusercontent.com/43147324/65900880-ac456b00-e3bf-11e9-84f2-11d968c4b153.PNG)
+
+
 c) Create the remaining personal belndshapes so as to be registered with the given blendshapes.
 (same motion of control and non control points between personal and given blendshapes
 
