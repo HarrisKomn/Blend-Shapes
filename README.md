@@ -10,6 +10,7 @@ Create a personal 3D model (using ISENSE device):
 a) Choose control points on personal blendshape and register them to control points of the given blendshape.
 
 ![Καταγραφή](https://user-images.githubusercontent.com/43147324/65899915-6e474780-e3bd-11e9-8179-ff2d8874987a.PNG)
+![Καταγραφή2](https://user-images.githubusercontent.com/43147324/65900046-b1a1b600-e3bd-11e9-9ab1-5e1ffb5d307a.PNG)
 
 
 b) Compute remaining (non control) points using barycentric interpolation. Personal blendshape totally registered to the given blendshape
