@@ -35,5 +35,4 @@ wk: weights of a given facial expression , k=1,.., 10
 vk: weights of a persona facial expression, k=1,..., 10
 
 Weights for cloning a given expression to a personal expression can be computed:
-![Καταγραφή8](![image](https://user-images.githubusercontent.com/43147324/75626982-ddc39c00-5bd4-11ea-95ae-a9df9f1d2dcf.png)
-)
+![Καταγραφή8](https://user-images.githubusercontent.com/43147324/75626982-ddc39c00-5bd4-11ea-95ae-a9df9f1d2dcf.png)
