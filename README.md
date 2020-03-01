@@ -30,4 +30,9 @@ c) Create the remaining personal belndshapes so as to be registered with the giv
 d) Construction of different personal facial expressions according to Linear and Differential Interpolation of Task 1.
 
 ### Task 3
-Linear Cloning of each expression of Task 1.
+Linear Cloning:
+wk: weights of a given facial expression , k=1,.., 10
+vk: weights of a persona facial expression, k=1,..., 10
+
+Weights for cloning a given expression to a personal expression can be computed:
+![Καταγραφή8](https://user-images.githubusercontent.com/43147324/65901181-57eebb00-e3c0-11e9-9bc0-88523bd98984.PNG)
