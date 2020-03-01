@@ -9,14 +9,14 @@ Construction of new face expressions interpolating ten given 3D models of differ
 ### Task 2
 Create a personal 3D model (using ISENSE device):
 
-a) Choose control points on personal blendshape and register them to control points of the given blendshape.
+a) Choose control points (green) on personal blendshape and register them to control points (orange) of the given blendshape.
 
 ![Καταγραφή](https://user-images.githubusercontent.com/43147324/65899915-6e474780-e3bd-11e9-8179-ff2d8874987a.PNG)
 ![Καταγραφή2](https://user-images.githubusercontent.com/43147324/65900046-b1a1b600-e3bd-11e9-9ab1-5e1ffb5d307a.PNG)
 ![Καταγραφή3](https://user-images.githubusercontent.com/43147324/65900115-dc8c0a00-e3bd-11e9-9e30-bbc918aa78b4.PNG)
 
 
-b) Compute remaining (non control) points using barycentric interpolation. Personal blendshape totally registered to the given blendshape
+b) Compute remaining (non control) points using barycentric interpolation. Result: Personal blendshape totally registered to the given blendshape
 
 ![Καταγραφή5](https://user-images.githubusercontent.com/43147324/65900880-ac456b00-e3bf-11e9-84f2-11d968c4b153.PNG)
 
