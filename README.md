@@ -27,7 +27,7 @@ c) Create the remaining personal belndshapes so as to be registered with the giv
 ![Καταγραφή6](https://user-images.githubusercontent.com/43147324/65901181-57eebb00-e3c0-11e9-9bc0-88523bd98984.PNG)
 ![Καταγραφή7](https://user-images.githubusercontent.com/43147324/65901187-5a511500-e3c0-11e9-8e5d-ce916d61680b.PNG)
 
-d) Construct different facial expression like Task 1
+d) Construction of different personal facial expressions according to Linear and Differential Interpolation of Task 1.
 
 ### Task 3
 Linear Cloning of each expression of Task 1.
